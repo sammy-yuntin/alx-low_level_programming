@@ -2,7 +2,7 @@
 /**
  * print_sign -> prints based on condition
  * @n:argument passed
- * return:1, 0, -1
+ * Return: returns 1, 0, -1
  **/
 int print_sign(int n)
 {
