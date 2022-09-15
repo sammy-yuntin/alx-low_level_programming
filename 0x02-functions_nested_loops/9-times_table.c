@@ -12,9 +12,10 @@ void times_table(void)
 	for(a=0;a<=9;b++)
 	{
 		for(b=1;b<=9;b++)
-		{
 			op = a*b;
-			_putchar(a*b);
+		{
+			
+			_putchar(op);
 			_putchar(44);
 			_putchar(32);
 		}	
