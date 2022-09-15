@@ -14,6 +14,6 @@ void times_table(void)
 			op = a*b;
 			_putchar((op)+44+32);
 		}	
-		_putchar(10)
+		_putchar(10);
 	}
 }
