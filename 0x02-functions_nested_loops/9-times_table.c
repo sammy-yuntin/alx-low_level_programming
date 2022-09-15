@@ -14,7 +14,7 @@ void times_table(void)
 		
 		{
 			z=a*b;
-			_putchar(z);
+			printf(z);
 			_putchar(44);
 			_putchar(32);
 		}	
