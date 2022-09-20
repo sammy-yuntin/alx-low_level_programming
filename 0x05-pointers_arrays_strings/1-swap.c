@@ -9,7 +9,7 @@
  **/
 
 {
-int *xtra;
+*int *xtra;
 *xtra = &a
 a = &b
 *b = &xtra;
