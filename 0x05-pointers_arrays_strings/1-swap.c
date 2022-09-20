@@ -9,8 +9,9 @@
  **/
 
 {
-*int *xtra;
-*xtra = &a
-a = &b
-*b = &xtra;
+int xtra = a;
+   
+a = b
+
+b = xtra;
 }
